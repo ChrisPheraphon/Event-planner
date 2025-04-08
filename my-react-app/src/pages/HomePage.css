@@ -1,0 +1,15 @@
+/* src/pages/HomePage.css */
+.home-container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .search-bar {
+    font-size: 1rem;
+    border: 2px solid #3498db;
+    border-radius: 8px;
+  }
+  
+  .events-grid {
+    margin-top: 20px;
+  }
